@@ -54,7 +54,7 @@
 
 <h3 align="left">Resume:</h3>
 <p align="left">
-  <a href="https://drive.google.com/file/d/1u26QFOaVCqS5olVhqbGJLUgYp2Kv47UY/view?usp=sharing" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Circle-icons-document.svg" alt="Resume" height="30" width="40"/> RESUME</a>
+  <a href="https://drive.google.com/file/d/1F0SuPT7HOquhVUHVBGYVH_cxUECeOI_k/view?usp=sharing" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Circle-icons-document.svg" alt="Resume" height="30" width="40"/> RESUME</a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=sinhatanmay18&label=PROFILE+VIEWS)
