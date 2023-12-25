@@ -6,7 +6,7 @@
   <!-- Project 1 -->
   <h4 align="left">Book My Service</h4>
 <p>
-  <strong>Description:</strong> "Book My Service" is a platform designed to book schedule household services. Catering to the needs of the modern generation, this innovative application seamlessly connects users with a diverse range of skilled professionals, including maids, cooks, carpenters, caretakers, cleaners, painters, and electricians. <strong style="color: red;">(Work in Progress)</strong>
+  <strong>Description:</strong> "Book My Service" is a microservice based application designed to schedule household services. Catering to the needs of the modern generation, this innovative application seamlessly connects users with a diverse range of skilled professionals, including maids, cooks, carpenters, caretakers, cleaners, painters, and electricians. <strong style="color: red;">(Work in Progress)</strong>
   <br>
   <!-- <strong>Link:</strong> <a href="https://github.com/sinhatanmay18/common-utility">View Project</a> -->
 </p>
